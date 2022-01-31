@@ -49,9 +49,6 @@
 <p align="left">
 <a href="https://twitter.com/yucedaloguzhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yucedaloguzhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/oguzhan-yucedal-bb736a224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/oguzhan-yucedal-bb736a224" height="30" width="40" /></a>
-
-<p>&nbsp;</p>
-
 <a href="https://instagram.com/yucedaloguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yucedaloguz" height="30" width="40" /></a>
 </p>
 
