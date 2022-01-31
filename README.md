@@ -1,6 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yucedaloguzhan&label=Profile%20views&color=0e75b6&style=flat" alt="yucedaloguzhan" /> </p>
 
-<p>&nbsp;</p>
 
 <img src="https://github.com/yucedaloguzhan/yucedaloguzhan/blob/main/GitHubPic3.jpg?raw=true">
 
@@ -19,21 +18,36 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yucedaloguzhan" alt="yucedaloguzhan" /></a> </p>
 
+<p>&nbsp;</p>
+
 <p align="left"> <a href="https://twitter.com/yucedaloguzhan" target="blank"><img src="https://img.shields.io/twitter/follow/yucedaloguzhan?logo=twitter&style=for-the-badge" alt="yucedaloguzhan" /></a> </p>
 
+<p>&nbsp;</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/yucedaloguzhan](https://github.com/yucedaloguzhan)
+
+<p>&nbsp;</p>
 
 
 - 💬 Ask me about **Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG**
 
+<p>&nbsp;</p>
+
 
 - 📫 How to reach me **yucedaloguzhan@gmail.com**
 
+<p>&nbsp;</p>
 
-- ⚡ Fun fact **One thing I cannot live without is Turkish Food**
+
+- ⚡ Fun fact **One thing I cannot live without is Turkish Food🥩**
+
+<p>&nbsp;</p>
 
 
 <h3 align="left">Connect with me:</h3>
+                
+                <p>&nbsp;</p>
+                
 <p align="left">
 <a href="https://twitter.com/yucedaloguzhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yucedaloguzhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/oguzhan-yucedal-bb736a224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/oguzhan-yucedal-bb736a224" height="30" width="40" /></a>
