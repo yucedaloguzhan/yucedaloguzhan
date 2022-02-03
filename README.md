@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yucedaloguzhan&label=Profile%20views&color=0e75b6&style=flat" alt="yucedaloguzhan" /> </p>
 
 
-<p align="center"> <img src="https://github.com/yucedaloguzhan/yucedaloguzhan/blob/main/GitHubPic3.jpg?raw=true"  width="450" /> </p>
+<p align="center"> <img src="https://github.com/yucedaloguzhan/yucedaloguzhan/blob/main/GitHubPic3.jpg?raw=true"  width="500" /> </p>
 
 
 <h1 align="center">Hi, 👋🏻 I'm Oguzhan Yucedal<h1>
