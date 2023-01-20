@@ -11,7 +11,7 @@
   
   <p>&nbsp;</p>
   
-<p align=justify">I am an Automation Tester. I am 27 years old. I graduated from Mustafa Kemal University. I love the IT world. My favorite programming language is Java.
+<p align=justify">I am an Automation Tester. I love the IT world. My favorite programming language is Java.
                  
 <p>&nbsp;</p>
                  
